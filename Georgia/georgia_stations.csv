@@ -1,0 +1,97 @@
+id,locationId,name,status,start_date,capacity,elevation,socket:nacs:output,socket:type1_combo:output,facilityName,ref:plugshare,address.street,addr:city,addr:state,addr:postcode,addr:country,Latitude,Longitude,access,access:conditional,socket:nacs,capacity:disabled,socket:type1_combo,capacity
+7789,409143,"Atlanta - Buckhead Loop NE, GA",PERMIT,,16,296,250,,,,3495 Buckhead Loop NE,Atlanta,GA,30326,USA,33.849935,-84.371385,,,0,,,
+7368,,"Duluth - Satellite Blvd, GA",CLOSED_PERM,,8,304,250,,,,3380 Satellite Blvd,Duluth,GA,30096,USA,33.963775,-84.129045,,,0,,,
+5562,14869,Tesla Supercharger,OPEN,2023-03-22,16,315,250,,,,118 E Ponce de Leon Ave,Decatur,GA,30030,US,33.776189,-84.295612,no,yes @ tesla_vehicles,16,,,16
+8943,4003106,"East Ellijay, GA",PLAN,,0,428,250,,Lowe's Home Improvement,,380 Highland Crossing,East Ellijay,GA,30540,USA,34.660016,-84.488559,,,,,,
+8971,19327,"Fayetteville, GA",PLAN,,0,277,250,,,,1135 GA-85,Fayetteville,GA,30214,USA,33.472454,-84.442742,,,,,,
+8976,27402,"Thomasville, GA",PLAN,,0,81,250,,Lowe's Home Improvement,,13911 US-19,Thomasville,GA,31792,USA,30.839935,-83.945568,,,,,,
+142,tiftonsupercharger,Tesla Supercharger,OPEN,2014-07-10,8,93,150,,,52273,1204 U.S. 82,Tifton,GA,31794,US,31.448847,-83.53221,no,yes @ tesla_vehicles,8,,,8
+140,,"Macon, GA",CLOSED_PERM,,8,98,150,,,,450 Martin Luther King Jr Blvd,Macon,GA,31201,USA,32.8334275,-83.6255567,,,,,,
+141,,"Savannah, GA",CLOSED_PERM,,8,6,125,,,,400 Airways Ave,Savannah,GA,31408,USA,32.135507,-81.212767,,,,,,
+725,kingslandsupercharger,Tesla Supercharger,OPEN,2015-11-18,8,9,150,,Kingsland Welcome Center,,1190 East Boone Ave,Kingsland,GA,31548,US,30.790764,-81.663729,no,yes @ tesla_vehicles,8,,,8
+854,augustagasupercharger,Tesla Supercharger,OPEN,2016-06-12,8,89,150,,,,1069 Stevens Creek Rd,Augusta,GA,30907,US,33.515004,-82.044443,no,yes @ tesla_vehicles,8,,,8
+1702,atlantapeachtreesupercharger,Tesla Supercharger,OPEN,2018-09-01,5,299,72,,,,3393 Peachtree Rd,Atlanta,GA,30326,US,33.848756,-84.36434,no,yes @ tesla_vehicles,5,,,5
+1671,,"Alpharetta (SC), GA",CLOSED_PERM,,2,340,72,,,,1400 Upper Hembree Rd,Roswell,GA,30076,USA,34.067199,-84.318835,,,,,,
+1617,atlantalenoxrdsupercharger,Tesla Supercharger,OPEN,2018-08-24,16,291,72,,,,3393 Peachtree Rd NE,Atlanta,GA,30326,US,33.846445,-84.360194,no,yes @ tesla_vehicles,16,,,16
+1790,macongarivergatesupercharger,Tesla Supercharger,OPEN,2018-12-23,10,113,150,,,,265 Tom Hill Sr Rd,Macon,GA,31210,US,32.897259,-83.689432,no,yes @ tesla_vehicles,10,,,10
+1786,augustagabelairsupercharger,Tesla Supercharger,OPEN,2018-12-15,10,152,150,,,175322,4329 Belair Frontage Rd,Augusta,GA,30909,US,33.481657,-82.130253,no,yes @ tesla_vehicles,10,,,10
+2007,lithoniageorgiasupercharger,Tesla Supercharger,OPEN,2019-10-17,12,275,150,,,,3045 Panola Rd,Lithonia,GA,30038,US,33.69893,-84.173181,no,yes @ tesla_vehicles,12,,,12
+2058,acworthsupercharger,Tesla Supercharger,OPEN,2019-08-19,12,297,150,,,,3500 Baker Rd,Acworth,GA,30101,US,34.075443,-84.652009,no,yes @ tesla_vehicles,12,,,12
+2149,alpharettagasupercharger,Tesla Supercharger,OPEN,2020-01-08,10,336,72,,,,5185 1st St,Alpharetta,GA,30009,US,34.071582,-84.275404,no,yes @ tesla_vehicles,10,,,10
+407,,"Decatur (SC), GA",CLOSED_PERM,,4,310,120,,,,1580 Church St,Decatur,GA,30033,USA,33.793217,-84.285379,,,,,,
+1603,athensgasupercharger,Tesla Supercharger,OPEN,2018-05-18,10,224,150,,,,1791 Oconee Connector,Athens,GA,30606,US,33.916675,-83.452965,no,yes @ tesla_vehicles,10,,,10
+1349,bufordsupercharger,Tesla Supercharger,OPEN,2018-11-06,10,327,150,,,,1705 Mall of Georgia Blvd,Buford,GA,30519,US,34.061572,-83.994606,no,yes @ tesla_vehicles,10,,,10
+277,2251,Tesla Supercharger,OPEN,2014-12-18,30,268,250,,,,1380 Atlantic Dr,Atlanta,GA,30363,US,33.793808,-84.397203,no,yes @ tesla_vehicles,20,,,20
+3518,dublingasuperchargerq422,Tesla Supercharger,OPEN,2022-09-29,12,86,250,,,,"2180 Us Hwy 441 South, GA-404",Dublin,GA,31021,US,32.490203,-82.93261,no,yes @ tesla_vehicles,12,,,12
+5524,AshburnGAQ322,Tesla Supercharger,OPEN,2022-11-18,16,131,250,,,,823 E Washington Ave,Ashburn,GA,31714,US,31.712344,-83.638266,no,yes @ tesla_vehicles,16,,,16
+7797,19359,Tesla Supercharger,OPEN,2024-04-15,12,333,250,,The Centre On Hugh Howell,604510,4420 Hugh Howell Rd,Tucker,GA,30084,US,33.852378,-84.207439,yes,,12,1,,12
+2166,mettersupercharger,Tesla Supercharger,OPEN,2019-11-27,8,58,250,,,,1118 S Lewis St,Metter,GA,30349,US,32.378566,-82.062539,yes,,8,,,8
+2429,brunswickgasupercharger,Tesla Supercharger,OPEN,2020-08-18,24,9,250,,,,500 Millennium Blvd,Brunswick,GA,31525,US,31.245874,-81.501667,yes,,24,,,24
+2477,valdostagasupercharger,Tesla Supercharger,OPEN,2020-10-11,8,61,250,,,,2112 W Hill Ave,Valdosta,GA,31601,US,30.81732,-83.320889,yes,,8,,,8
+9445,424260,Tesla Supercharger,OPEN,2025-02-28,12,366,325,,,,3885 Mundy Mill Rd,Oakwood,GA,30566,US,34.232823,-83.874836,yes,,12,1,,12
+8164,27239,"Chamblee, GA",PLAN,,16,307,325,,Lowe's Home Improvement,645190,4950 Peachtree Blvd,Chamblee,GA,30341,USA,33.884851,-84.316491,,,16,1,,
+8276,58988,Tesla Supercharger,OPEN,2024-10-15,8,83,325,,Starbucks,646793,3172 Macon Rd,Columbus,GA,31906,US,32.480038,-84.943322,yes,,8,1,,8
+3290,ColumbusGAsupercharger,Tesla Supercharger,OPEN,2021-04-20,12,129,250,,Target,316148,1591 Bradley Park Dr,Columbus,GA,31904,US,32.533485,-84.971362,yes,,12,1,,12
+8342,59141,Tesla Supercharger,OPEN,2024-11-01,8,303,325,,Starbucks,,8500 Holcomb Bridge Rd,Alpharetta,GA,30022,US,33.987845,-84.273087,yes,,8,1,,8
+8946,58952,"Alpharetta - Windward Pkwy, GA",PLAN,,16,338,325,,Windward Commons,,12850 GA-9,Alpharetta,GA,30004,USA,34.095338,-84.279292,,,16,1,,
+8944,424908,"Cumming - Lakeland Plaza, GA",PERMIT,,16,388,325,,Lakeland Plaza,,525 Lakeland Plaza,Cumming,GA,30040,USA,34.18507,-84.142217,,,16,1,,
+7532,19280,"Covington, GA",CLOSED_TEMP,,28,235,325,,QuikTrip,618240,11184 GA-142,Covington,GA,30014,USA,33.608864,-83.825879,,,28,1,28,
+7633,32441,"Dalton, GA",VOTING,,28,255,325,,IHOP,,1510 W Walnut Ave,Dalton,GA,30720,USA,34.760995,-84.995285,,,28,2,,
+2572,peachtreecornersgasupercharger,Tesla Supercharger,OPEN,2020-12-04,12,305,250,,,,5220 Town Center Blvd,Peachtree Corners,GA,30092,US,33.978802,-84.214918,yes,,12,,,12
+2668,NewnanGAsupercharger,Tesla Supercharger,OPEN,2021-03-17,12,285,250,,,,555 Bullsboro Dr,Newnan,GA,30265,US,33.393341,-84.759097,yes,,12,,,12
+2796,EastPointGAsupercharger,Tesla Supercharger,OPEN,2021-03-30,12,277,250,,,,3660 Marketplace Blvd,East Point,GA,30344,US,33.658708,-84.50122,yes,,12,,,12
+3215,DouglasvilleGAsupercharger,Tesla Supercharger,OPEN,2021-05-16,12,340,250,,,,2950 Chapel Hill Rd,Douglasville,GA,30135,US,33.726907,-84.735784,yes,,12,,,12
+3257,MadisonGAsupercharger,Tesla Supercharger,OPEN,2021-04-23,8,202,250,,,,2012 Eatonton Rd,Madison,GA,30650,US,33.558083,-83.473861,yes,,8,,,8
+6045,36084,Tesla Supercharger,OPEN,2023-04-08,24,258,250,,,,1000 Southlake Cir,Morrow,GA,30260,US,33.5769,-84.354123,yes,,24,,,24
+3538,AdairsvilleGAsupercharger,Tesla Supercharger,OPEN,2021-08-17,8,231,250,,,,7867 Adairsville Hwy,Adairsville,GA,30103,US,34.377883,-84.915729,yes,,8,,,8
+6143,27267,Tesla Supercharger,OPEN,2023-09-29,12,313,250,,,,440 Ernest West Barrett Parkway,Kennesaw,GA,30144,US,34.012824,-84.564919,yes,,12,,,12
+3446,McDonoughGASupercharger,Tesla Supercharger,OPEN,2021-07-09,12,267,250,,South Point Shopping Center,,1380 GA-20 West,McDonough,GA,30253,US,33.425818,-84.18787,yes,,12,,,12
+3553,CordeleGASupercharger,Tesla Supercharger,OPEN,2021-08-27,11,103,250,,,,1011 16th Ave E,Cordele,GA,31015,US,31.963626,-83.766165,yes,,11,,,11
+6887,27314,Tesla Supercharger,OPEN,2023-10-27,12,314,250,,,,2220 Peachtree Industrial Blvd,Duluth,GA,30097,US,34.020833,-84.119734,yes,,12,,,12
+6872,32857,Tesla Supercharger,OPEN,2023-11-17,12,214,250,,,,110 Banks Crossing Dr,Commerce,GA,30529,US,34.24984,-83.459397,yes,,12,,,12
+6921,58918,Tesla Supercharger,OPEN,2023-11-09,16,311,250,,,,1150 Scenic Hwy N,Lawrenceville,GA,30045,US,33.903284,-84.002931,yes,,16,,,16
+3791,PoolerGAsupercharger,Tesla Supercharger,OPEN,2021-11-05,8,7,250,,,,2111 Pooler Pkwy,Parker,GA,31322,US,32.079619,-81.281224,yes,,8,,,8
+3897,WoodstockGASupercharger,Tesla Supercharger,OPEN,2022-01-31,12,302,250,,,,915 Ridgewalk Pkwy,Woodstock,GA,30188,US,34.118729,-84.528502,yes,,12,,,12
+4170,DuluthGASupercharger,Tesla Supercharger,OPEN,2022-05-13,23,288,250,,,,3585 Peachtree Industrial Blvd,Duluth,GA,30096,US,34.0004,-84.169,yes,,23,,,23
+7164,mariettagaexpansion,Tesla Supercharger,OPEN,2023-11-10,16,285,250,,,,3000 Windy Hill Rd SE,Marietta,GA,30067,US,33.904622,-84.4669,yes,,16,,,16
+4470,FortValleyGAQ322,Tesla Supercharger,OPEN,2022-08-31,44,141,325,325,Buc-ee's,,7001 Russell Pkwy,Fort Valley,GA,31030,US,32.58306,-83.740534,yes,,44,,44,44
+4471,AlbanyGAQ322,Tesla Supercharger,OPEN,2022-08-12,12,75,250,,,,2825 Ledo Rd,Albany,GA,31707,US,31.62396,-84.215788,yes,,12,,,12
+7356,poolergapoolerpkwy,Tesla Supercharger,OPEN,2024-02-05,8,6,250,,,,439 Pooler Pkwy,Pooler,GA,31322,US,32.135881,-81.252544,yes,,8,1,,8
+7386,32491,Tesla Supercharger,OPEN,2024-01-31,12,148,250,,,,615 Landmark Pointe Blvd,Gray,GA,31032,US,32.988704,-83.56883,yes,,12,,,12
+5326,19350,Tesla Supercharger,OPEN,2022-11-20,12,309,250,,,,1570 Holcomb Bridge Rd,Roswell,GA,30076,US,34.019005,-84.312888,yes,,12,,,12
+7443,19294,Tesla Supercharger,OPEN,2024-02-06,12,381,250,,,,3446 Winder Hwy,Flowery Branch,GA,30542,US,34.216749,-83.862837,yes,,12,,,12
+8955,58916,Tesla Supercharger,OPEN,2024-12-16,16,347,325,,Chili's Grill & Bar,,11720 Medlock Bridge Rd,Johns Creek,GA,30097,US,34.067816,-84.168792,yes,,16,1,,16
+6473,gainesvillega,Tesla Supercharger,OPEN,2023-12-21,16,359,250,,,,1943 Jesse Jewell NE Pkwy,Gainesville,GA,30501,US,34.316069,-83.797249,yes,,16,1,,16
+6631,27271,Tesla Supercharger,OPEN,2023-07-29,8,220,250,,,,196 Alps Rd,Athens,GA,30606,US,33.947718,-83.410259,yes,,8,,,8
+5776,MariettaGAQ322,Tesla Supercharger,OPEN,2023-03-15,12,326,250,,,,3625 Dallas Highway,Marietta,GA,30064,US,33.953257,-84.657297,yes,,12,,,12
+5756,PoolerGAQ322,Tesla Supercharger,OPEN,2022-12-30,11,8,250,,,,907 US-80,Pooler,GA,31322,US,32.110766,-81.235803,yes,,11,,,11
+5773,19307,Tesla Supercharger,OPEN,2023-04-25,8,317,250,,,,4475 Roswell Rd,Marietta,GA,30062,US,33.986776,-84.421616,yes,,8,,,8
+5822,27244,Tesla Supercharger,OPEN,2023-09-12,8,299,250,,,,99 Krog St NE,Atlanta,GA,30307,US,33.757056,-84.363381,yes,,8,,,8
+5904,27273,Tesla Supercharger,OPEN,2023-06-11,12,325,250,,,,3186 Lawrenceville-Suwanee Rd,Suwanee,GA,30024,US,34.03393,-84.052624,yes,,12,,,12
+8960,58817,"Norcross - Live Oak Pkwy, GA",CONSTRUCTION,,16,317,325,,Shell,828996,6120 Live Oak Pkwy,Norcross,GA,30093,USA,33.906497,-84.203519,,,16,1,,
+8973,27253,"Richmond Hill, GA",PLAN,,0,3,325,,Enmarket,,3651 US-17,Richmond Hill,GA,31324,USA,31.932094,-81.323147,,,,,,
+8972,27401,"Savannah - Abercorn St, GA",CONSTRUCTION,,12,7,325,,Enson Market,829030,5501 Abercorn St,Savannah,GA,31405,USA,32.027084,-81.109245,,,12,1,,
+8977,428953,"Augusta - Jimmie Dyess Pkwy, GA",CONSTRUCTION,,0,154,325,,Exxon,829097,4086 Jimmie Dyess Pkwy,Augusta,GA,30909,USA,33.479968,-82.128753,,,,,,
+8954,58912,"Atlanta - Northside Drive NW, GA",PLAN,,0,283,325,,,,1042 Northside Drive NW,Atlanta,GA,30318,USA,33.783207,-84.408125,,,,,,
+8975,27309,Tesla Supercharger,OPEN,2025-02-07,16,53,325,,Winn-Dixie,,1060 Lakes Blvd,Lake Park,GA,31636,US,30.681366,-83.217683,yes,,16,1,,16
+8014,59154,Tesla Supercharger,OPEN,2024-08-30,8,282,325,,Starbucks,617386,3622 Cobb Pkwy NW,Acworth,GA,30101,US,34.044421,-84.695875,yes,,8,1,,8
+9095,58942,"Brookhaven, GA",PLAN,,0,299,325,,,,655 Brookhaven Ave,Brookhaven,GA,30319,USA,33.872054,-84.335088,,,,,,
+9093,400320,Tesla Supercharger,OPEN,2024-12-03,12,430,325,,Mully's Nacoochee Grill,,7275 S Main St,Helen,GA,30545,US,34.690983,-83.714392,yes,,12,1,,12
+7593,59088,Tesla Supercharger,OPEN,2025-03-07,16,297,325,,,,3714 Roswell Rd,Atlanta,GA,30342,US,33.8569,-84.38285,yes,,16,,,16
+8974,32164,"Brunswick - GA-99, GA",PLAN,,36,12,325,,Buc-ee's,,6900 GA-99,Brunswick,GA,31325,USA,31.302452,-81.483488,,,36,2,,
+9097,30804,Tesla Supercharger,OPEN,2025-01-31,16,247,325,,Henry Town Center,,1950 Jonesboro Rd,McDonough,GA,30253,US,33.4663,-84.2189,yes,,16,1,,16
+4519,AdairsvilleGAQ322,Tesla Supercharger,OPEN,2022-08-31,12,210,250,,Buc-ee's,,601 Union Grove Rd SE,Adairsville,GA,30103,US,34.440386,-84.91532,yes,,12,,,12
+9902,27255,"Brunswick - Warren Mason Blvd, GA",PERMIT,,16,6,325,,Cracker Barrel Old Country Store,,211 Warren Mason Blvd,Brunswick,GA,31520,USA,31.218143,-81.523709,,,16,1,,
+9858,437123,"Smyrna, GA",PLAN,,0,291,325,,Target,,2201 Cobb Pkwy SE,Smyrna,GA,30080,USA,33.897754,-84.480156,,,,,,
+9730,59090,"Atlanta - Caroline St NE, GA",PLAN,,20,303,325,,Target,,1275 Caroline St NE,Atlanta,GA,30307,USA,33.756265,-84.347156,,,20,1,,
+9819,32404,"Perry, GA",PLAN,,0,114,325,,Cracker Barrel Old Country Store,,101 Lect Dr,Perry,GA,31069,USA,32.447021,-83.752644,,,,,,
+9786,429515,"Augusta - Robert C Daniel Jr Pkwy, GA",CONSTRUCTION,,16,109,325,,Target,795232,235 Robert C Daniel Jr Pkwy,Augusta,GA,30909,USA,33.490104,-82.080305,,,16,1,,
+9892,33695,"Snellville, GA",PLAN,,0,319,325,,Target,,1905 Scenic Hwy N,Snellville,GA,30078,USA,33.873905,-84.015559,,,,,,
+9904,461362,"Cumming - Peachtree Pkwy, GA",VOTING,,0,374,325,,Kroger,,1595 Peachtree Pkwy,Cumming,GA,30041,USA,34.123197,-84.170807,,,,,,
+9891,428603,"Conyers, GA",PLAN,,0,273,325,,Cracker Barrel Old Country Store,,1182 Dogwood Dr SE,Conyers,GA,30012,USA,33.655111,-84.005929,,,,,,
+7040,36083,Tesla Supercharger,OPEN,2023-11-07,16,259,325,325,,,3625 N Commerce Dr,East Point,GA,30344,US,33.655999,-84.504295,yes,,16,,16,16
+3222,MariettaGAsupercharger,Tesla Supercharger,OPEN,2021-03-19,12,275,250,,,,3000 Windy Hill Rd SE,Marietta,GA,30067,US,33.90375,-84.465778,yes,,12,,,12
+6893,33701,Tesla Supercharger,OPEN,2025-03-27,24,256,325,,,,135 Riverside Pkwy,Austell,GA,30168,US,33.770385,-84.557356,yes,,24,,,24
+6927,59140,Tesla Supercharger,OPEN,2023-11-07,16,308,250,,Village at Peachtree Corners,,5270 Peachtree Pkwy,Peachtree Corners,GA,30092,US,33.977033,-84.215722,yes,,16,,,16
+4066,18031,Tesla Supercharger,OPEN,2022-04-30,8,50,250,,Subway,,104 E Winthrope Ave,Millen,GA,30442,US,32.8032,-81.9486,yes,,8,,,8
+5801,19313,Tesla Supercharger,OPEN,2023-02-16,8,274,250,,,,239 City Circle #1050,Peachtree City,GA,30269,US,33.396462,-84.593126,yes,,8,,,8
